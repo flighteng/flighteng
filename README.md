@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flighteng.
-- 👀 I’m interested in Python.
+- 👀 I’m interested in Python, C++.
 - 🌱 I’m currently learning Python and Github.
 - Inexperienced.
 
